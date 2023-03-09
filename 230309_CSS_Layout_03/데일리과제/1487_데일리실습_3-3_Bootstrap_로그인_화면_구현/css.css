@@ -1,0 +1,42 @@
+/* .container {
+  display: flex column;
+  
+} */
+
+.alert {
+  height: 80px;
+  /* color: white; */
+  text-align: center;
+  background-color: red;
+  text
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.header {
+
+}
+
+.sign {
+
+}
+
+.username {
+
+}
+
+.remember {
+
+}
+
+.forgot {
+
+}
+
+.login {
+
+}
